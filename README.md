@@ -29,9 +29,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-  The lifestyle of a ticket: An Admin or User(Worker) runs into a problem and then creates a "Ticket", then it's sent off to the Departments for anyone to resovle the issue. Someone from a Department activates the ticket and resovles the issue and then closes the "Ticket".
+  The lifestyle of a ticket: An Admin, End-Users or Customers run into a problem and then creates a "Ticket", then it's sent off to the Departments for anyone to resovle the issue. Someone from a Department activates the ticket and resovles the issue and then closes the "Ticket".
 
 <h2>Lifecycle Stages</h2>
+
+This shows Customers/end-user can create Tickets on any issue they may have.
 
 
 
