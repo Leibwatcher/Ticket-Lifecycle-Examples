@@ -59,5 +59,5 @@ As you can see Tom Mot closed the ticket for "Enitre Mobile Online Banking is Do
 
 ![Annotation 2023-08-06 183916](https://github.com/Leibwatcher/Ticket-Lifecycle-Examples/assets/137578446/3e948bdb-3441-4232-9d87-020e9d1815f5)
 
-                This is the whole life a ticket, it's pretty simple. And always remember "Practice is your tool for greatness in life"
+       This is the whole life a ticket, it's pretty simple. And always remember "Practice is your tool for greatness in life"
 <br />
